@@ -26,7 +26,7 @@
                 <li><a href="struktur.php">Struktur</a></li>
                 <li><a href="kegiatan.php">Kegiatan</a></li>
                 <li><a href="berita.php">Berita</a></li>
-                <li><a href="artikel.php">Artikel</a></li>
+                <li><a href="artikel.php" class="active">Artikel</a></li>
             </ul>
             <div class="hamburger" id="hamburger">
                 <span></span>
@@ -45,7 +45,7 @@
             <li><a href="struktur.php" onclick="closeMobileMenu()">Struktur</a></li>
             <li><a href="kegiatan.php" onclick="closeMobileMenu()">Kegiatan</a></li>
             <li><a href="berita.php" onclick="closeMobileMenu()">Berita</a></li>
-            <li><a href="artikel.php" class="active"onclick="closeMobileMenu()">Artikel</a></li>
+            <li><a href="artikel.php" class="active" onclick="closeMobileMenu()">Artikel</a></li>
         </ul>
     </div>
 

@@ -17,8 +17,8 @@
             <div class="logo">HIMASISFOR</div>
             <ul class="nav-links">
                 <li><a href="index.php">Beranda</a></li>
-                <li><a href="tentang.php">Tentang</a></li>
-                <li><a href="visimisi.php" class="active">Visi & Misi</a></li>
+                <li><a href="tentang.php" class="active">Tentang</a></li>
+                <li><a href="visimisi.php">Visi & Misi</a></li>
                 <li><a href="struktur.php">Struktur</a></li>
                 <li><a href="kegiatan.php">Kegiatan</a></li>
                 <li><a href="berita.php">Berita</a></li>
@@ -34,7 +34,7 @@
                 <ul>
                     <li><a href="index.php">Beranda</a></li>
                     <li><a href="tentang.php" class="active">Tentang</a></li>
-                    <li><a href="visimisi.php" class="active">Visi & Misi</a></li>
+                    <li><a href="visimisi.php">Visi & Misi</a></li>
                     <li><a href="struktur.php">Struktur</a></li>
                     <li><a href="kegiatan.php">Kegiatan</a></li>
                     <li><a href="berita.php">Berita</a></li>
